@@ -1,15 +1,12 @@
-# Hey there! welcome to my profile
+# Hey there I'm Cris
 
-My name is **Cristobal Caro**, I'm based in Berlin but originally from Chile. Here is where both, my skills and creativity come together.
-Besides coding, I'm passionate about some other stuff, like music, cooking and animals.
+My name is **Cristobal Caro**, I'm a Berlin based software engineer and musician (originally from Chile 🌶️ ). Here is where both, my skills and creativity come together.
+I'm passionate about cooking and animals, also a proud dad of a small sausage dog 🌭 🐶 
 
-This are my skills and knowledge:
+Skills ⚙️:
 
-- 🔭 I’m currently studing to be a Web Developer at SPICED ACADEMY
-- 🌱 I'm setting the seeds to Front-end and Back-end
-- 👯 I’m looking to collaborate on tech projects
-- 💬 Ask me about Logistics and Transportation Systems
-- 📫 How to reach me: cacaro@uc.cl
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Proud dad of a little sausage dog
+- JavaScript
+- Html
+- CSS
+- Ableton Live
 -->
