@@ -1,16 +1,15 @@
 # Hey there! welcome to my profile
 
-<!--
-**CristobalCaroF/CristobalCaroF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Cristobal Caro**, I'm based in Berlin but originally from Chile. Here is where both, my skills and creativity come together.
+Besides coding, I'm passionate about some other stuff, like music, cooking and animals.
 
-Here are some ideas to get you started:
+This are my skills and knowledge:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently studing to be a Web Developer at SPICED ACADEMY
+- 🌱 I'm setting the seeds to Front-end and Back-end
+- 👯 I’m looking to collaborate on tech projects
+- 💬 Ask me about Logistics and Transportation Systems
+- 📫 How to reach me: cacaro@uc.cl
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Proud dad of a little sausage dog
 -->
