@@ -7,8 +7,12 @@ ___
 ### Skills ⚙️:
 
 - JavaScript
+- Typescript
 - Html
 - CSS
+- React
+- Vue.js
+- Next.js
 - Ableton Live
 
 ### Contact me!
