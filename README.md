@@ -13,6 +13,7 @@ ___
 - React
 - Vue.js
 - Next.js
+- Node.js
 - Ableton Live
 
 ### Contact me!
